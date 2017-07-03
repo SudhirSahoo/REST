@@ -1,0 +1,94 @@
+{
+	"Result":  {
+		"ResultCode":  0,
+		"ResultDescription":  "SUCCESS",
+		"TotalTicketCount":  2
+	},
+	"AutoProvisionTickets":  [
+		{
+			"TicketDetails": [
+				{
+					"Key": "TicketNumber",
+					"Value": "111111"
+				},
+				{
+					"Key": "RsourceKey",
+					"Value": "MyResourceKey"
+				}
+			],
+			"Requestor": [
+				{
+					"Key": "RequestorNBK",
+					"Value": "myNBK"
+				},
+				{
+					"Key": "RequestorName",
+					"Value": "MyName"
+				}
+			],
+			"TargetUser": [
+				{
+					"Key": "TicketOnBehalfOf-NBKID",
+					"Value": "myOnBehalfNBK"
+				},
+				{
+					"Key": "TicketOnBehalfOf-NAME",
+					"Value": "MyBehalfName"
+				}
+			],
+			"TicketAttributes": [
+				{
+					"Key": "Access Classification - Standard",
+					"Value": "standard"
+				},
+				{
+					"Key": "Access Method",
+					"Value": "No"
+				}
+			]
+		},
+		{
+			"TicketDetails": [
+				{
+					"Key": "TicketNumber",
+					"Value": "111111"
+				},
+				{
+					"Key": "RsourceKey",
+					"Value": "MyResourceKey"
+				}
+			],
+			"Requestor": [
+				{
+					"Key": "RequestorNBK",
+					"Value": "myNBK"
+				},
+				{
+					"Key": "RequestorName",
+					"Value": "MyName"
+				}
+			],
+			"TargetUser": [
+				{
+					"Key": "TicketOnBehalfOf-NBKID",
+					"Value": "myOnBehalfNBK"
+				},
+				{
+					"Key": "TicketOnBehalfOf-NAME",
+					"Value": "MyBehalfName"
+				}
+			],
+			"TicketAttributes": [
+				{
+					"Key": "Access Classification - Standard",
+					"Value": "standard"
+				},
+				{
+					"Key": "Access Method",
+					"Value": "No"
+				}
+			]
+		}
+	]
+}
+			
